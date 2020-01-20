@@ -95,7 +95,6 @@ python-dateutil==2.8.1
 python-jsonrpc-server==0.3.2
 python-language-server==0.31.2
 pytz==2019.3
-pywin32==227
 pywin32-ctypes==0.2.0
 PyYAML==5.2
 pyzmq==18.1.0
